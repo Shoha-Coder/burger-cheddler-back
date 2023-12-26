@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "p1c1.png",
+      "title": "HOT DEALS THIS WEEK",
+      "description": "SALE UP 50% MODERN FURNITURE",
+      "price": 39,
+      "btn": "VIEW NOW"
+    },
+    {
+      "id": 2,
+      "img": "p1c2.png",
+      "title": "INY VINTAGE CHAIR",
+      "price": 39,
+      "btn": "VIEW NOW"
+    },
+    {
+      "id": 3,
+      "img": "p1c3.png",
+      "title": "LARGE TERRACOTA VASE",
+      "price": 39,
+      "btn": "VIEW NOW"
+    },
+    {
+      "id": 4,
+      "img": "p1c4.png",
+      "title": "DECOR",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 39,
+      "btn": "VIEW ALL"
+    },
+    {
+      "id": 5,
+      "img": "p1c5.png",
+      "title": "LINEN BEACH TOWEL",
+      "stars": 4,
+      "price": 30
+    },
+    {
+      "id": 6,
+      "img": "p1c6.png",
+      "title": "Square Clear Glass Box",
+      "stars": 2,
+      "price": 30
+    },
+    {
+      "id": 7,
+      "img": "p1c7.png",
+      "title": "4-pack Small Ceramic Plates",
+      "stars": 5,
+      "price": 30
+    },
+    {
+      "id": 8,
+      "img": "p1c8.png",
+      "title": "Large Clear Glass Box",
+      "stars": 3,
+      "price": 30
+    },
+    {
+      "id": 9,
+      "img": "p1c9.png",
+      "title": "Round Jute Placemat",
+      "stars": 4,
+      "price": 30
+    },
+    {
+      "id": 10,
+      "img": "p1c10.png",
+      "title": "Metal Wire Basket",
+      "stars": 4,
+      "price": 30
+    },
+    {
+      "id": 11,
+      "img": "p1c11.png",
+      "title": "BOHO CHIC",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 30,
+      "btn": "VIEW ALL"
+    },
+    {
+      "id": 12,
+      "title": "BED SETS",
+      "price": {
+        "price": "50.00",
+        "old": "222.00"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "btn": "VIEW DETAILS"
+    },
+    {
+      "id": 13,
+      "img": "p1c12.png",
+      "title": "Tray with Foot",
+      "stars": 4,
+      "price": 29
+    },
+    {
+      "id": 14,
+      "img": "p1c13.png",
+      "title": "Twill Seat Cushion",
+      "stars": 1,
+      "price": 20
+    },
+    {
+      "id": 15,
+      "img": "p1c14.png",
+      "title": "Fluted Beverage Glass",
+      "stars": 3,
+      "price": 3
+    },
+    {
+      "id": 16,
+      "img": "p1c15.png",
+      "title": "Ceramic Egg Cup",
+      "stars": 5,
+      "price": 10
+    },
+    {
+      "id": 17,
+      "img": "p1c16.png",
+      "title": "Small Bamboo Box",
+      "stars": 0,
+      "price": 35
+    },
+    {
+      "id": 18,
+      "img": "p1c17.png",
+      "title": "Metal Cutlery Basket",
+      "stars": 5,
+      "price": 19.99
+    },
+    {
+      "id": 19,
+      "img": "p1c18.png",
+      "title": "4-pack Ceramic Cups",
+      "stars": 2,
+      "price": 0.99
+    },
+    {
+      "id": 20,
+      "img": "p1c19.png",
+      "title": "2-pack Linen Napkins",
+      "stars": 3,
+      "price": 20
+    },
+    {
+      "id": 21,
+      "img": "p1c20.png",
+      "title": "Glazed Stoneware Plate",
+      "stars": 5,
+      "price": 50
+    }
+  ],
+  "bedroom-header": [
+    {
+      "id": 1,
+      "top": "Member Exclusive",
+      "mid": "15% off everthing + extra $10 off for plus status",
+      "bottom": "Not a Membr? Join now to shop"
+    }
+  ],
+  "bedroom-products": [
+    {
+      "id": 1,
+      "img": "p2c1.png",
+      "title": "Velvet Covvered",
+      "img1":"c1.svg",
+      "colors": {
+        "brown": "#9E6344",
+        "grayish-green": "#8F8E73"
+      },
+      "price": "39"
+    },
+    {
+      "id": 2,
+      "img": "p2c2.png",
+      "title": "CANDLE IN GLASS HOLDER",
+      "img1":"c2.svg",
+      "colors": {
+        "grayish-green": "#8F8E73"
+      },
+      "price": "14"
+    },
+    {
+      "id": 3,
+      "img": "p2c3.png",
+      "title": "METAL PHOTO FRAME",
+      "img1":"c3.svg",
+      "colors": {
+        "yellow": "",
+        "gray": ""
+      },
+      "price": 25
+    },
+    {
+      "id": 4,
+      "img": "p2c4.png",
+      "title": "Round floor mat",
+      "img1":"c4.svg",
+      "colors": {
+        "gray": "",
+        "shade-gray": ""
+      },
+      "price": 34
+    },
+    {
+      "id": 5,
+      "img": "p2c5.png",
+      "title": "Class light holder",
+      "img1":"c5.svg",
+      "colors": {
+        "dark-red": "",
+        "red": ""
+      },
+      "price": 22
+    },
+    {
+      "id": 6,
+      "img": "p2c6.png",
+      "title": "Flannel Duvet Cover Set",
+      "img1":"c6.svg",
+      "colors": {
+        "gray": "",
+        "shade-gray": ""
+      },
+      "price": 44
+    },
+    {
+      "id": 7,
+      "img": "p2c7.png",
+      "title": "Fitted Cotton Sheet",
+      "img1":"c7.svg",
+      "colors": {
+        "gray": "",
+        "pink": "",
+        "cyan": ""
+      },
+      "price": 24
+    },
+    {
+      "id": 8,
+      "img": "p2c8.png",
+      "title": "Small Candle in a Small Jar",
+      "img1":"c8.svg",
+      "colors": {
+        "dark-red": "",
+        "gray": "",
+        "shade-gray": ""
+      },
+      "price": 14
+    },
+    {
+      "id": 9,
+      "img": "p2c9.png",
+      "title": "Checked Duvet Cover Set",
+      "img1":"c9.svg",
+      "colors": {
+        "dark-red": "",
+        "shade-gray": ""
+      },
+      "price": 24
+    },
+    {
+      "id": 10,
+      "img": "p2c10.png",
+      "title": "Washed Linen Pillowcase",
+      "img1":"c10.svg",
+      "colors": {
+        "gray": "",
+        "shade-gray": "",
+        "pink": ""
+      },
+      "price": 18
+    },
+    {
+      "id": 11,
+      "img": "p2c11.png",
+      "title": "Ribbed Wool-blend Throw",
+      "img1":"c11.svg",
+      "colors": {
+        "shade-gray": "",
+        "pink": ""
+      },
+      "price": 24
+    },
+    {
+      "id": 12,
+      "img": "p2c12.png",
+      "title": "Mini Porcelain Dish",
+      "img1":"c12.svg",
+      "colors": {
+        "gray": "",
+        "pink": "",
+        "cyan": ""
+      },
+      "price": 8
+    }
+  ]
+}
